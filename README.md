@@ -1,6 +1,6 @@
 # Introduction
 
-This is an Express Application to get the status of the orders using data from a MongoDB database.
+This is an Express Application to get the status of the card delivery using data from a MongoDB database.
 
 ## Installation
 
